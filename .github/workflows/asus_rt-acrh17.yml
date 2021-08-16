@@ -4,7 +4,7 @@
 #   Author: 52014cm                                     #
 ###########################################################
 
-AutoBuild-asus_rt-acrh17
+asus_rt-acrh17
 
 ### 以下内容请保持不变 (请修改下方: 环境变量设置)
 on:
@@ -29,7 +29,7 @@ on:
 ### 环境变量设置
 env:
 # 编译时调用的 [.config] 文件名称
-  CONFIG_FILE: d-team_newifi-d2
+  CONFIG_FILE: asus_rt-acrh17
 # 源码仓库:分支
   DEFAULT_SOURCE: coolsnowwolf/lede:master
 # 上传固件到 Github Releases

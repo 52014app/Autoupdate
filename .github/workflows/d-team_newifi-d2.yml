@@ -1,7 +1,7 @@
 ###########################################################
 #   Description: Compile OpenWrt by GitHub Actions        #
 #   Based on: https://github.com/P3TERX/Actions-OpenWrt   #
-#   Author: 52014cm                                     #
+#   Author: Hyy2001X                                      #
 ###########################################################
 
 name: Newifi_D2

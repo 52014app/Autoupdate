@@ -1,5 +1,5 @@
 #!/bin/bash
-# AutoBuild Module by Hyy2001 <https://github.com/Hyy2001X/AutoBuild-Actions>
+# AutoBuild Module by 52014cm <https://github.com/52014cm/AutoBuild-Actions>
 # AutoBuild Functions
 
 Firmware-Diy_Before() {

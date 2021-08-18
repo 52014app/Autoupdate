@@ -2,4 +2,4 @@ CONFIG_TARGET_ramips=y
 CONFIG_TARGET_ramips_mt7628=y
 CONFIG_TARGET_ramips_mt7628_DEVICE_hiwifi_hc5661a=y
 
--
+## TEST

@@ -17,23 +17,23 @@
 ## coolsnowwolf:master 通用软件包
 case "${OP_Maintainer},${OP_BRANCH}" in
 coolsnowwolf,master)
-	AddPackage svn other luci-app-smartdns kenzok8/openwrt-packages/trunk
-	AddPackage git other luci-app-serverchan tty228
-	AddPackage svn other luci-app-socat Lienol/openwrt-package/trunk
-	AddPackage git other luci-app-onliner Hyy2001X
-	AddPackage git other luci-app-adguardhome Hyy2001X
-	AddPackage svn other luci-app-eqos kenzok8/openwrt-packages/trunk
-	AddPackage git other OpenClash vernesong master
-	AddPackage git other luci-app-adblock-plus small-5 master
+	# AddPackage svn other luci-app-smartdns kenzok8/openwrt-packages/trunk
+	# AddPackage git other luci-app-serverchan tty228
+	# AddPackage svn other luci-app-socat Lienol/openwrt-package/trunk
+	# AddPackage git other luci-app-onliner Hyy2001X
+	# AddPackage git other luci-app-adguardhome Hyy2001X
+	# AddPackage svn other luci-app-eqos kenzok8/openwrt-packages/trunk
+	# AddPackage git other OpenClash vernesong master
+	# AddPackage git other luci-app-adblock-plus small-5 master
 ;;
 esac
 
 case "${TARGET_PROFILE},${OP_Maintainer},${OP_BRANCH}" in
 asus_rt-acrh17,coolsnowwolf,master)
-	AddPackage git other luci-app-usb3disable rufengsuixing
+	# AddPackage git other luci-app-usb3disable rufengsuixing
 ;;
 d-team_newifi-d2,coolsnowwolf,master)
-	AddPackage git other luci-app-usb3disable rufengsuixing
+	# AddPackage git other luci-app-usb3disable rufengsuixing
 	# AddPackage svn package/kernel mt76 openwrt/openwrt/trunk/package/kernel
 ;;
 x86_64,coolsnowwolf,master)
